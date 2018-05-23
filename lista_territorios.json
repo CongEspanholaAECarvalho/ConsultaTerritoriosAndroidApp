@@ -1,0 +1,38 @@
+[
+  {
+    "numero_cartao" : 2345,
+    "bairro" : "Jd. Nazaré",
+    "enderecos" : [
+      {
+        "logradouro" : "Estrada Dom João Nery",
+        "numero" : "2345A",
+        "cep" : "08452-340",
+        "obs" : "morador muito receptivo"
+      },
+      {
+        "logradouro" : "Estrada Dom João Nery",
+        "numero" : "2345A",
+        "cep" : "08452-340",
+        "obs" : "morador muito receptivo"
+      }
+    ]
+  },  
+  {
+    "numero_cartao" : 2345,
+    "bairro" : "Jd. Nazaré",
+    "enderecos" : [
+      {
+        "logradouro" : "Estrada Dom João Nery",
+        "numero" : "2345A",
+        "cep" : "08452-340",
+        "obs" : "morador muito receptivo"
+      },
+      {
+        "logradouro" : "Estrada Dom João Nery",
+        "numero" : "2345A",
+        "cep" : "08452-340",
+        "obs" : "morador muito receptivo"
+      }
+    ]
+  }
+]
